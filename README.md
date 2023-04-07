@@ -7,11 +7,12 @@
  </div>
  <hr>
 
-![Artisan](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)
+![menina](https://user-images.githubusercontent.com/130161834/230645854-f13d511e-37cf-4ca7-8724-1ce7beb61774.jpeg)
 
 🧠 Analista de Sistema / Desenvolvedora Front-End HTML/ CSS / JS; <br>
 💻 Front-End : Bootstrap / JavaScript / HTML / CSS / React; <br>
 💾 Banco de dados: My SQL;  <br>
+
 ✍️ Estudando Q.A;
 ✍️ Estudando Front-End :  JavaScript  / React;  <br>
 🌏 Futuro Desenvolvedora : Q.A / Front-End; <br>
