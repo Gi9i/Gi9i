@@ -14,7 +14,7 @@
 💻 Front-End : Bootstrap / JavaScript / HTML / CSS / React; <br>
 💾 Banco de dados: My SQL;  <br>
 
-✍️ Estudando Q.A;
+✍️ Estudando Q.A;✍️<br>
 ✍️ Estudando Front-End :  JavaScript  / React;  <br>
 🌏 Futuro Desenvolvedora : Q.A / Front-End; <br>
   <hr>
