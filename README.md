@@ -29,12 +29,6 @@
   
 </div>
   <hr>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo0u&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo0u&theme=radical&layout=compact)
-
- 
- <hr>
  
  
 
