@@ -5,7 +5,6 @@
  <h3> Social Networks;</h3>
   <a href = "https://br.linkedin.com/in/girlene-machado-b24b09128/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
 🧠 Desenvolvedora Front-End HTML/ CSS / JS; <br>
-💻  Cientista de Dados : SQL / Python / Inteligência Artificial; <br>
   <hr>
  </div>
  <hr>
@@ -20,8 +19,6 @@
  
   <h3> Lingaguens de Programação; <h3>
   <div style="display : inline_block"><br>
-  <img align="center" alt="Gi-python" height"30" width="40" src= https://github.com/Gi9i/Gi9i/assets/130161834/49c72c71-0137-46f1-8d91-73f7e7c8c108
-> 
   <img align="center" alt="Gi-Js" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gi-Mysql" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
